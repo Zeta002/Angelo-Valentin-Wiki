@@ -31,7 +31,7 @@ Il ne faut donc pas soutenir les macaques mais bel est bien les babouins.
 
 |Le Babouin de Guinée||
 |:---:|:---:|
-|[Angelo-Valentin-Wiki/BABOUIN.jpg]||
+|![](https://github.com/Zeta002/Angelo-Valentin-Wiki/BABOUIN.jpg "Babouin de Guinée")||
 |Nom|Babouin de Guinée|
 |Espèce|Papio Papio|
 |Genre|Papio|
