@@ -20,11 +20,12 @@ Voici une image d'un babouin regardant au loin des macaques hors champ, on peut 
 
 Le babouin de Guinée a été déclaré unanimement comme meilleur singe du monde entier lors de la réunion du S.I.N.G.E. (Sah Il Nait Génialissime Entier) de l'année 69420 av. J-C et à gardé ce titre chaque année lors des réunion hebdo-annu-mensu-journalières du S.I.N.G.E..
 
+Il fut un jour, où les babouins ont été crée, contrairement aux macaques. C'est un Dieu secondaire (maléfique et un peu relou) qui décida pour contrer la nouvelle race déjà emblématique et splendide que sont les babouins de créer les infâmes et viles macaques.
 
-Il fut un jour, ou les babouins ont étais créer, le Dieu originel n'a pas créer les macaques. C'est un Dieu secondaire (maléfique et un peu relou) qui décida pour contrer cette nouvelle race déjà emblématique des babouins de créer les macaques.
+La rivalité entre ces deux Dieux, ne fut qu'envenimée par leurs créations respectives même si c'est grandement à cause des macaques. Depuis ce jour, il ne peuvent plus se blairer, et la guerre entre ces deux espèces de singes continue de faire rage, ravageant au passage toutes les forêts sur leur passage.
 
-La rivalité entre ces 2 Dieu, n'a étais qu'envenimer par ces créations. Depuis ce jour, il ne peuvent plus se blairer, et la guerre entre ces 2 races de singe continue de faire rage. Ravagant au passage toutes les forêts sur leur passage.
+C'est un véritable combat écologique, politique et social qui s'engage entre les deux belligérants, parvenir à résoudre ce conflit reviendrais donc à sauver la planète.
 
-C'est un véritable combat écologique qui s'engage, atténué cette guerre revient donc a sauver la planête.
+Il ne faut donc pas soutenir les macaques mais bel est bien les babouins.
 
 
