@@ -4,11 +4,11 @@
 
 ## Avant propos
 
-Ici on aime les babouins de Guinée, cette espèce de Babouins venant de.. eh bien Guinée, et quasi menacé, ceux qui veux dire qu'il est potentiellement en voie de disparition dans un futur proche dans l'avenir incertain du turfu.
+Ici on aime les [babouins de Guinée](https://fr.wikipedia.org/wiki/Babouin_de_Guin%C3%A9e), cette espèce de Babouins venant de.. eh bien [Guinée](https://fr.wikipedia.org/wiki/Guin%C3%A9e), et quasi menacé, ceux qui veux dire qu'il est potentiellement en voie de disparition dans un futur proche dans l'avenir incertain du turfu.
 
 ### Communauté
 
-Notre communauté est tournée vers l'espèce la plus fabuleuse de babouin du monde. Toute évocation ou mise en cause de la famille des macaques sera sévèrement sanctionnée, leurs nombreux crimes de guerres contre les babouins de Guinée ne peuvent être ni pardonnés ni oubliés.
+Notre communauté est tournée vers l'espèce la plus fabuleuse de babouin du monde. Toute évocation ou mise en cause de la famille des [macaques](https://fr.wikipedia.org/wiki/Crime_de_guerre) sera sévèrement sanctionnée, leurs nombreux [crimes de guerres](https://fr.wikipedia.org/wiki/Crime_de_guerre) contre les [babouins](https://fr.wikipedia.org/wiki/Perfection) de Guinée ne peuvent être ni pardonnés ni oubliés.
 
 ## Image
 
@@ -20,21 +20,11 @@ Voici une image d'un babouin regardant au loin des macaques hors champ, on peut 
 
 Le babouin de Guinée a été déclaré unanimement comme meilleur singe du monde entier lors de la réunion du S.I.N.G.E. (Sah Il Nait Génialissime Entier) de l'année 69420 av. J-C et à gardé ce titre chaque année lors des réunion hebdo-annu-mensu-journalières du S.I.N.G.E..
 
-Il fut un jour, où les babouins ont été crée, contrairement aux macaques. C'est un Dieu secondaire (maléfique et un peu relou) qui décida pour contrer la nouvelle race déjà emblématique et splendide que sont les babouins de créer les infâmes et viles macaques.
 
-La rivalité entre ces deux Dieux ne fut qu'envenimée par les conflits de leurs créations respectives même si c'est grandement à cause des macaques. Depuis ce jour, il ne peuvent plus se blairer, et la guerre entre ces deux espèces de singes continue de faire rage, ravageant au passage toutes les forêts sur leur passage.
+Il fut un jour, ou les babouins ont étais créer, le Dieu originel n'a pas créer les macaques. C'est un Dieu secondaire (maléfique et un peu relou) qui décida pour contrer cette nouvelle race déjà emblématique des babouins de créer les macaques.
 
-C'est un véritable combat écologique, politique et social qui s'engage entre les deux belligérants, parvenir à résoudre ce conflit reviendrais donc à sauver la planète.
+La rivalité entre ces 2 Dieu, n'a étais qu'envenimer par ces créations. Depuis ce jour, il ne peuvent plus se blairer, et la guerre entre ces 2 races de singe continue de faire rage. Ravagant au passage toutes les forêts sur leur passage.
 
-Il ne faut donc pas soutenir les macaques mais bel est bien les babouins.
+C'est un véritable combat écologique qui s'engage, atténué cette guerre revient donc a sauver la planête.
 
 
-|Le Babouin de Guinée||
-|:---:|:---:|
-|![](https://static.wikia.nocookie.net/babouin-de-guinnee-enjoyer/images/f/f7/Uyuni_babouin_1440_550_0.jpg/revision/latest?cb=20221017090150 "Babouin de Guinée")||
-|Nom|Babouin de Guinée|
-|Espèce|Papio Papio|
-|Genre|Papio|
-|Famille|Cercopithecidae|
-|Statut de conservation|NT : Quasi-Menacé|
-|Synonymes||
