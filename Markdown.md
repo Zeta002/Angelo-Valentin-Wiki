@@ -30,7 +30,7 @@ Il ne faut donc pas soutenir les macaques mais bel est bien les babouins.
 
 
 |Le Babouin de Guinée||
-|:---||
+|:---:|:---:|
 |||
 |Nom||
 |Espèce||
