@@ -22,7 +22,7 @@ Le babouin de Guinée a été déclaré unanimement comme meilleur singe du mond
 
 Il fut un jour, où les babouins ont été crée, contrairement aux macaques. C'est un Dieu secondaire (maléfique et un peu relou) qui décida pour contrer la nouvelle race déjà emblématique et splendide que sont les babouins de créer les infâmes et viles macaques.
 
-La rivalité entre ces deux Dieux, ne fut qu'envenimée par leurs créations respectives même si c'est grandement à cause des macaques. Depuis ce jour, il ne peuvent plus se blairer, et la guerre entre ces deux espèces de singes continue de faire rage, ravageant au passage toutes les forêts sur leur passage.
+La rivalité entre ces deux Dieux ne fut qu'envenimée par les conflits de leurs créations respectives même si c'est grandement à cause des macaques. Depuis ce jour, il ne peuvent plus se blairer, et la guerre entre ces deux espèces de singes continue de faire rage, ravageant au passage toutes les forêts sur leur passage.
 
 C'est un véritable combat écologique, politique et social qui s'engage entre les deux belligérants, parvenir à résoudre ce conflit reviendrais donc à sauver la planète.
 
@@ -32,9 +32,9 @@ Il ne faut donc pas soutenir les macaques mais bel est bien les babouins.
 |Le Babouin de Guinée||
 |:---:|:---:|
 |||
-|Nom||
-|Espèce||
-|Genre||
-|Famille||
-|Statut de conservation||
+|Nom|Babouin de Guinée|
+|Espèce|Papio Papio|
+|Genre|Papio|
+|Famille|Cercopithecidae|
+|Statut de conservation|NT : Quasi-Menacé|
 |Synonymes||
