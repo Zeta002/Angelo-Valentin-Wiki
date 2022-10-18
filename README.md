@@ -9,6 +9,9 @@
 
 * Un fichier nommé "Wikitext" contenant le code source de la page wikitext que nous avons créer
 
+* Une image nommé "Babouin-de-guinee.webp" qui nous sert pour le wiki / markdown
+
+
 ## Travail fourni
 
 > Nous avons dans la page wiki donc sous code wikitext la liste d'élément sous-jacent :
