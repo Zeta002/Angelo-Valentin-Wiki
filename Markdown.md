@@ -38,7 +38,7 @@ Il ne faut donc pas soutenir les macaques mais bel est bien les babouins.
 | Famille | Cercopithecidae |
 | Statut de conservation | NT : Quasi-Menacé |
 | Synonymes | Papio sphinx (Erxleben, 1777)  
-                Papio olivaceus  |
+||Papio olivaceus  |
 
 Papio olivaceus
 (I. Geoffroy, 1851)
