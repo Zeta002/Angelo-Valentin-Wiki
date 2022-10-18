@@ -28,3 +28,13 @@ La rivalité entre ces deux Dieux, ne fut qu'envenimée par leurs créations res
 C'est un véritable combat écologique, politique et social qui s'engage entre les deux belligérants, parvenir à résoudre ce conflit reviendrais donc à sauver la planète.
 
 Il ne faut donc pas soutenir les macaques mais bel est bien les babouins.
+
+|Le Babouin de Guinée|  |
+|---|---|
+|  |  |
+| Nom | Babouin de Guinée |
+| Espèce | Papio Papio |
+| Genre | Papio |
+| Famille | Cercopithecidae |
+| Statut de conservation | NT : Quasi-Menacé |
+| Synonymes |  |
