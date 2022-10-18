@@ -5,7 +5,7 @@
 > Comment naviguer dans ce github, vous y trouverez :
 
 
-* Un fichier nommé "Markdown" contenant la traduction du wiki en markdown
+* Un fichier nommé "Markdown.md" contenant la traduction du wiki en markdown
 
 * Un fichier nommé "Wikitext" contenant le code source de la page wikitext que nous avons créer
 
