@@ -37,8 +37,7 @@ Il ne faut donc pas soutenir les macaques mais bel est bien les babouins.
 | Genre | Papio |
 | Famille | Cercopithecidae |
 | Statut de conservation | NT : Quasi-Menacé |
-| Synonymes | Papio sphinx
-(Erxleben, 1777)
+| Synonymes | Papio sphinx (Erxleben, 1777)  Papio olivaceus |
 
 Papio olivaceus
 (I. Geoffroy, 1851)
