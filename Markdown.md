@@ -29,12 +29,12 @@ C'est un véritable combat écologique, politique et social qui s'engage entre l
 Il ne faut donc pas soutenir les macaques mais bel est bien les babouins.
 
 
-|Le Babouin de Guinée|
-|---|
-|   |
-|Nom|
-|Espèce|
-|Genre|
-|Famille|
-|Statut de conservation|
-|Synonymes|
+|Le Babouin de Guinée||
+|:---||
+|||
+|Nom||
+|Espèce||
+|Genre||
+|Famille||
+|Statut de conservation||
+|Synonymes||
