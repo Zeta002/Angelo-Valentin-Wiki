@@ -45,3 +45,4 @@
 ### Pour finir
 
 > Vous avez désormais toutes les clés en mains pour parcourir et comprendre le travail rendu, merci de votre attention et bonne lecture.
+> Le lien vers le wiki est le suivant : https://babouin-de-guinnee-enjoyer.fandom.com/wiki/Babouin_de_Guinn%C3%A9e_enjoyer_Wiki
