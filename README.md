@@ -30,13 +30,15 @@
 
 > En markdown s'en est une autre, voici aussi sous forme de liste les élément implanté :
 
-*
+* Un titre / des sous-titres / Sous-sous-titres etc...
 
-*
+* Hyperliens amenant à des sites extérieur
 
-*
+* Un tableau composé d'une image **et** de texte (équivalent à l'infobox sur le wiki text)
 
-*
+* Un image
+
+* Texte en gras / italique / barré
 
 ## Clarification
 
