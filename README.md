@@ -28,7 +28,7 @@
 
 * Une image
 
-> En markdown s'en est une autre, voici aussi sous forme de liste les élément implanté :
+> En markdown s'en est une autre, voici aussi sous forme de liste les éléments implanté :
 
 * Un titre / des sous-titres / Sous-sous-titres etc...
 
