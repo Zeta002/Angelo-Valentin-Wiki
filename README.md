@@ -11,6 +11,8 @@
 
 * Une image nommé "Babouin-de-guinee.webp" qui nous sert pour le wiki / markdown
 
+* Une image nommé "BABOUIN.png" qui nous sert pour le wiki / markdown
+
 
 ## Travail fourni
 
