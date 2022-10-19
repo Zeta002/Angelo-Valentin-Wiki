@@ -6,7 +6,7 @@
 
 
 * Un fichier nommé "Markdown.md" contenant la traduction du wiki en markdown
-* Un fichier nommé "Wikitext" contenant le code source de la page wikitext que nous avons créer
+* Un fichier nommé "Wikitext script" contenant le code source de la page wikitext que nous avons créer
 * Une image nommé "Babouin-de-guinee.webp" qui nous sert pour le wiki / markdown
 * Une image nommé "BABOUIN.png" qui nous sert pour le wiki / markdown
 
