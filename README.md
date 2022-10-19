@@ -2,7 +2,7 @@
 
 ## Naviguation
 
-> Comment naviguer dans ce github, vous y trouverez :
+> Dans ce github, vous trouverez :
 
 
 * Un fichier nommé "Markdown.md" contenant la traduction du wiki en markdown
