@@ -26,8 +26,8 @@
 
 * Un titre / des sous-titres / Sous-sous-titres etc...
 * Hyperliens amenant à des sites extérieur
-* Un tableau composé d'une image **et** de texte (équivalent à l'infobox sur le wiki text)
-* Un image
+* Un tableau de texte (équivalent à l'infobox sur le wiki text)
+* Une image
 * Texte en gras / italique / barré
 
 ## Clarification
