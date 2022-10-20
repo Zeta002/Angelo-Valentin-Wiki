@@ -32,7 +32,7 @@
 
 ## Clarification
 
-> Les hyperliens "[babouins]" et "[macaques]" ne sont pas "cohérent" intentionellement, il renvoie respectivement à la page wikipedia de "La perfection" et celle des "Crimes de guerres", nous savons faire des hyperliens correcte ceci n'est qu'une boutade.
+> Les hyperliens "babouins" et "macaques" ne sont pas "cohérent" intentionellement, il renvoie respectivement à la page wikipedia de "La perfection" et celle des "Crimes de guerres", nous savons faire des hyperliens correcte ceci n'est qu'une boutade.
 
 ### Pour finir
 
